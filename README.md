@@ -1,12 +1,10 @@
 # CDN
 
-> YunYouJun CDN by jsDelivr
+> FwRiver CDN by jsDelivr
 
-- GitHub: <https://github.com/YunYouJun/cdn>
-- GitHub CDN: <https://github.com/YunYouJun/cdn/raw/master>
-- GitHub CDN Alias: <https://cdn.yunyoujun.cn>
-- jsDelivr CDN: <https://cdn.jsdelivr.net/gh/YunYouJun/cdn>
-- jsDelivr CDN Alias: <https://cdn.elpsy.cn>
+- GitHub: <https://github.com/FwRiver/cdn>
+- GitHub CDN: <https://github.com/FwRiver/cdn/raw/master>
+- jsDelivr CDN: <https://cdn.jsdelivr.net/gh/FwRiver/cdn>
 
 ## Fonts
 

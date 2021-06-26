@@ -1,4 +1,3 @@
-cd /Users/yunyou/github/pages/cdn
 git add -A
 git commit -m '☁️: update'
 git push

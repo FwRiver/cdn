@@ -2,9 +2,9 @@
 
 > FwRiver CDN by jsDelivr
 
-- GitHub: <https://github.com/FwRiver/cdn>
-- GitHub CDN: <https://github.com/FwRiver/cdn/raw/master>
-- jsDelivr CDN: <https://cdn.jsdelivr.net/gh/FwRiver/cdn>
+- GitHub: <https://github.com/RiverNotHere/cdn>
+- GitHub CDN: <https://github.com/RiverNotHere/cdn/raw/master>
+- jsDelivr CDN: <https://cdn.jsdelivr.net/gh/RiverNotHere/cdn>
 
 ## Fonts
 
